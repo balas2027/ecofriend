@@ -1,0 +1,5 @@
+{
+  "name": "Sustainable Shopper",
+  "description": "An application to analyze e-commerce product links and suggest eco-friendly alternatives, promoting responsible consumption as per SDG 12.",
+  "requestFramePermissions": []
+}
